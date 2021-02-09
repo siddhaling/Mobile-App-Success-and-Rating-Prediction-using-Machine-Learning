@@ -28,7 +28,8 @@ linear equation to observed data.
 
 ## DATASET DESCRIPTION
 The dataset, ‘Google Play Store Apps’ was obtained from Kaggle and used for this
-study. No of observation (rows): 10840
+study. No of observation (rows): 10840 
+https://www.kaggle.com/lava18/google-play-store-apps
 Indepdendent variables \
 i. App: This contains the application name \
 ii. Category: Category of the app \
