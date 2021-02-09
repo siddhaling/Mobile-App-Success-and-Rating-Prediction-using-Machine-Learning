@@ -29,15 +29,16 @@ linear equation to observed data.
 ## DATASET DESCRIPTION
 The dataset, ‘Google Play Store Apps’ was obtained from Kaggle and used for this
 study. No of observation (rows): 10840
-Indepdendent variables
-i. App: This contains the application name
-ii. Category: Category of the app
-iii. Reviews: No. of user reviews
-iv. Size: Size of the app
-v. Installs: Number of user installs
-vi. Type: Paid or Free
-vii. Price: Price of the app
-viii. Content Rating: Age group the app is targeted at - Children / Mature 21+ /
+Indepdendent variables \
+i. App: This contains the application name \
+ii. Category: Category of the app \
+iii. Reviews: No. of user reviews \
+iv. Size: Size of the app \
+v. Installs: Number of user installs \
+vi. Type: Paid or Free \
+vii. Price: Price of the app \
+viii. Content Rating: Age group the app is targeted at - Children / Mature 21+ / \
+
 Adult
 ix. Genres: multiple genres (For eg, a game can belong to Music, Game, Family
 genres.
